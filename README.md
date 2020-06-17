@@ -1,4 +1,3 @@
 # portfolio
 
-Bootstrap template retrieved from https://startbootstrap.com/themes/agency/ 
-Portfolio images retrieved from https://www.freepik.com
+Bootstrap template & portfolio images retrieved from https://startbootstrap.com/themes/agency/ and  https://www.freepik.com . 
